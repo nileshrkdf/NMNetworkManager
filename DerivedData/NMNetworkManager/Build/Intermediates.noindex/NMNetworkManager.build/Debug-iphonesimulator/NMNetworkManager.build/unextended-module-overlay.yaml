@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/nileshmalviya/Work/WorkSpace/Samples/IOS/POD/NMNetwork/NMNetworkManager/DerivedData/NMNetworkManager/Build/Products/Debug-iphonesimulator/NMNetworkManager.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/nileshmalviya/Work/WorkSpace/Samples/IOS/POD/NMNetwork/NMNetworkManager/DerivedData/NMNetworkManager/Build/Intermediates.noindex/NMNetworkManager.build/Debug-iphonesimulator/NMNetworkManager.build/unextended-module.modulemap",
+    }]
+  }]
+}

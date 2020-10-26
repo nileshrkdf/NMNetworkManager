@@ -11,6 +11,8 @@
 		8B6561F225460EEC009621C8 /* NMNetworkManagerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B6561F125460EEC009621C8 /* NMNetworkManagerTests.swift */; };
 		8B6561F425460EEC009621C8 /* NMNetworkManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 8B6561E625460EEC009621C8 /* NMNetworkManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8B6561FE25460F43009621C8 /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B6561FD25460F43009621C8 /* NetworkManager.swift */; };
+		8B65625D25466E2E009621C8 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8B6561E725460EEC009621C8 /* Info.plist */; };
+		8B65625E25466E36009621C8 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8B6561F325460EEC009621C8 /* Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -181,6 +183,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8B65625D25466E2E009621C8 /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -188,6 +191,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8B65625E25466E36009621C8 /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

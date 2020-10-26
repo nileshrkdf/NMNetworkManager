@@ -1,0 +1,301 @@
+# Fine-grained v0
+---
+allNodes:
+  - key:
+      kind:            sourceFileProvide
+      aspect:          interface
+      context:         ''
+      name:            '/Users/nileshmalviya/Work/WorkSpace/Samples/IOS/POD/NMNetwork/NMNetworkManager/DerivedData/NMNetworkManager/Build/Intermediates.noindex/NMNetworkManager.build/Debug-iphonesimulator/NMNetworkManager.build/Objects-normal/x86_64/NetworkManager.swiftdeps'
+    fingerprint:     44fdd440278aa57802eb7194f2cd551b
+    sequenceNumber:  0
+    defsIDependUpon: [ 33, 32, 31, 29, 28, 27, 26, 25, 24, 23, 22, 21, 
+                       20, 19, 18, 17, 16, 15, 14, 13, 12 ]
+    isProvides:      true
+  - key:
+      kind:            sourceFileProvide
+      aspect:          implementation
+      context:         ''
+      name:            '/Users/nileshmalviya/Work/WorkSpace/Samples/IOS/POD/NMNetwork/NMNetworkManager/DerivedData/NMNetworkManager/Build/Intermediates.noindex/NMNetworkManager.build/Debug-iphonesimulator/NMNetworkManager.build/Objects-normal/x86_64/NetworkManager.swiftdeps'
+    fingerprint:     44fdd440278aa57802eb7194f2cd551b
+    sequenceNumber:  1
+    defsIDependUpon: [ 34, 11, 35, 30, 10 ]
+    isProvides:      true
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            NetworkManager
+    fingerprint:     87e76d462584fdb7f39bd504adf89f4f
+    sequenceNumber:  2
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            topLevel
+      aspect:          implementation
+      context:         ''
+      name:            NetworkManager
+    fingerprint:     87e76d462584fdb7f39bd504adf89f4f
+    sequenceNumber:  3
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         16NMNetworkManager07NetworkB0C
+      name:            ''
+    fingerprint:     87e76d462584fdb7f39bd504adf89f4f
+    sequenceNumber:  4
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            nominal
+      aspect:          implementation
+      context:         16NMNetworkManager07NetworkB0C
+      name:            ''
+    fingerprint:     87e76d462584fdb7f39bd504adf89f4f
+    sequenceNumber:  5
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            potentialMember
+      aspect:          interface
+      context:         16NMNetworkManager07NetworkB0C
+      name:            ''
+    fingerprint:     87e76d462584fdb7f39bd504adf89f4f
+    sequenceNumber:  6
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            potentialMember
+      aspect:          implementation
+      context:         16NMNetworkManager07NetworkB0C
+      name:            ''
+    fingerprint:     87e76d462584fdb7f39bd504adf89f4f
+    sequenceNumber:  7
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            dynamicLookup
+      aspect:          interface
+      context:         ''
+      name:            getMethod
+    sequenceNumber:  8
+    defsIDependUpon: [ 0 ]
+    isProvides:      true
+  - key:
+      kind:            dynamicLookup
+      aspect:          implementation
+      context:         ''
+      name:            getMethod
+    sequenceNumber:  9
+    defsIDependUpon: [  ]
+    isProvides:      true
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            StringLiteralType
+    sequenceNumber:  10
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            topLevel
+      aspect:          interface
+      context:         ''
+      name:            print
+    sequenceNumber:  11
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Users/nileshmalviya/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule'
+    sequenceNumber:  12
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Users/nileshmalviya/Work/WorkSpace/Samples/IOS/POD/NMNetwork/NMNetworkManager/DerivedData/NMNetworkManager/Build/Intermediates.noindex/NMNetworkManager.build/Debug-iphonesimulator/NMNetworkManager.build/unextended-module.modulemap'
+    sequenceNumber:  13
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Users/nileshmalviya/Downloads/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/usr/include/mach-o/dyld.modulemap'
+    sequenceNumber:  14
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Users/nileshmalviya/Downloads/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap'
+    sequenceNumber:  15
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Users/nileshmalviya/Downloads/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/usr/include/Darwin.apinotes'
+    sequenceNumber:  16
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Users/nileshmalviya/Downloads/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/usr/include/objc/ObjectiveC.apinotes'
+    sequenceNumber:  17
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Users/nileshmalviya/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes'
+    sequenceNumber:  18
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Users/nileshmalviya/Downloads/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes'
+    sequenceNumber:  19
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Users/nileshmalviya/Downloads/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes'
+    sequenceNumber:  20
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Users/nileshmalviya/Work/WorkSpace/Samples/IOS/POD/NMNetwork/NMNetworkManager/NMNetworkManager/NMNetworkManager.h'
+    sequenceNumber:  21
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Users/nileshmalviya/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule'
+    sequenceNumber:  22
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Users/nileshmalviya/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule'
+    sequenceNumber:  23
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Users/nileshmalviya/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-ios-simulator.swiftmodule'
+    sequenceNumber:  24
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Users/nileshmalviya/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule'
+    sequenceNumber:  25
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Users/nileshmalviya/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-ios-simulator.swiftmodule'
+    sequenceNumber:  26
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Users/nileshmalviya/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-ios-simulator.swiftmodule'
+    sequenceNumber:  27
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Users/nileshmalviya/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-ios-simulator.swiftmodule'
+    sequenceNumber:  28
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            externalDepend
+      aspect:          interface
+      context:         ''
+      name:            '/Users/nileshmalviya/Downloads/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes'
+    sequenceNumber:  29
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            nominal
+      aspect:          interface
+      context:         s34_ExpressibleByBuiltinStringLiteralP
+      name:            ''
+    sequenceNumber:  30
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         16NMNetworkManager07NetworkB0C
+      name:            deinit
+    sequenceNumber:  31
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         16NMNetworkManager07NetworkB0C
+      name:            init
+    sequenceNumber:  32
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         16NMNetworkManager07NetworkB0C
+      name:            getMethod
+    sequenceNumber:  33
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         16NMNetworkManager07NetworkB0C
+      name:            print
+    sequenceNumber:  34
+    defsIDependUpon: [  ]
+    isProvides:      false
+  - key:
+      kind:            member
+      aspect:          interface
+      context:         s34_ExpressibleByBuiltinStringLiteralP
+      name:            init
+    sequenceNumber:  35
+    defsIDependUpon: [  ]
+    isProvides:      false
+...
