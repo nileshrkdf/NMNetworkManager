@@ -5,6 +5,211 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>20319869-37C5-40D6-999A-D680C52B9350</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>20319869-37C5-40D6-999A-D680C52B9350.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NMNetworkManager project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NMNetworkManager</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NMNetworkManager</string>
+			<key>timeStartedRecording</key>
+			<real>625375508.37365901</real>
+			<key>timeStoppedRecording</key>
+			<real>625375508.50538099</real>
+			<key>title</key>
+			<string>Build NMNetworkManager</string>
+			<key>uniqueIdentifier</key>
+			<string>20319869-37C5-40D6-999A-D680C52B9350</string>
+		</dict>
+		<key>3FD0B3A3-1D9A-46D7-AAF6-303AF1801581</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3FD0B3A3-1D9A-46D7-AAF6-303AF1801581.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NMNetworkManager project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NMNetworkManager</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NMNetworkManager</string>
+			<key>timeStartedRecording</key>
+			<real>625375543.642519</real>
+			<key>timeStoppedRecording</key>
+			<real>625375551.27570295</real>
+			<key>title</key>
+			<string>Build NMNetworkManager</string>
+			<key>uniqueIdentifier</key>
+			<string>3FD0B3A3-1D9A-46D7-AAF6-303AF1801581</string>
+		</dict>
+		<key>4C5C9432-1C31-476C-9BE2-4647C46E3FA8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4C5C9432-1C31-476C-9BE2-4647C46E3FA8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NMNetworkManager project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NMNetworkManager</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NMNetworkManager</string>
+			<key>timeStartedRecording</key>
+			<real>625375478.608989</real>
+			<key>timeStoppedRecording</key>
+			<real>625375478.642151</real>
+			<key>title</key>
+			<string>Build NMNetworkManager</string>
+			<key>uniqueIdentifier</key>
+			<string>4C5C9432-1C31-476C-9BE2-4647C46E3FA8</string>
+		</dict>
+		<key>535D1F89-4FEF-4093-90C3-B26132362C8C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>535D1F89-4FEF-4093-90C3-B26132362C8C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NMNetworkManager project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NMNetworkManager</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean NMNetworkManager</string>
+			<key>timeStartedRecording</key>
+			<real>625375503.41570699</real>
+			<key>timeStoppedRecording</key>
+			<real>625375503.46796703</real>
+			<key>title</key>
+			<string>Clean NMNetworkManager</string>
+			<key>uniqueIdentifier</key>
+			<string>535D1F89-4FEF-4093-90C3-B26132362C8C</string>
+		</dict>
+		<key>7DF4AC13-D643-4717-BBFB-72CFE42C69DC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7DF4AC13-D643-4717-BBFB-72CFE42C69DC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NMNetworkManager project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NMNetworkManager</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NMNetworkManager</string>
+			<key>timeStartedRecording</key>
+			<real>625375462.22510195</real>
+			<key>timeStoppedRecording</key>
+			<real>625375462.70799696</real>
+			<key>title</key>
+			<string>Build NMNetworkManager</string>
+			<key>uniqueIdentifier</key>
+			<string>7DF4AC13-D643-4717-BBFB-72CFE42C69DC</string>
+		</dict>
+		<key>F06B3FFD-AAF6-4CF6-B5A2-F6C575DFC171</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F06B3FFD-AAF6-4CF6-B5A2-F6C575DFC171.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NMNetworkManager project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NMNetworkManager</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NMNetworkManager</string>
+			<key>timeStartedRecording</key>
+			<real>625375477.335639</real>
+			<key>timeStoppedRecording</key>
+			<real>625375477.43535101</real>
+			<key>title</key>
+			<string>Build NMNetworkManager</string>
+			<key>uniqueIdentifier</key>
+			<string>F06B3FFD-AAF6-4CF6-B5A2-F6C575DFC171</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
