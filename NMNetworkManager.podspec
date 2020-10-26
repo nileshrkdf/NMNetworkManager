@@ -92,7 +92,11 @@ Pod::Spec.new do |spec|
   #
 
   # spec.source_files  = "Classes", "Classes/**/*.{h,m}"
-  spec.source_files  = ["NMNetworkManager/src/*.swift","NMNetworkManager/*.h"]
+  spec.source_files  = ["NMNetworkManager/*.h"]
+    
+    
+  spec.subspec 'src' do |ss|
+    ss.source_files = "NMNetworkManager/src/*.swift"
   spec.exclude_files = "Classes/Exclude"
 
   # spec.public_header_files = "Classes/**/*.h"
