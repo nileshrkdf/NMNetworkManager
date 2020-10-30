@@ -26,7 +26,7 @@ public class NetworkManager {
     /// - Parameters completion : completion block
     static public func performNetworkAction(url: URL, methodType : ConnectionType, completion: @escaping(_ data: Data?, _ error: Error?) -> Void) {
         var urlR = URLRequest(url: url)
-        urlR.timeoutInterval 
+//        urlR.timeoutInterval 
         URLSession.shared.dataTask(with: url) { data, res, err in
             if let data = data {
                 completion(data, nil)

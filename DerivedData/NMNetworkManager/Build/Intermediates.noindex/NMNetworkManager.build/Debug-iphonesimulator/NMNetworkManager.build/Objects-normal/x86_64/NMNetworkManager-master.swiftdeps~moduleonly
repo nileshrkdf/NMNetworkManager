@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.3 (swiftlang-1200.0.16.9 clang-1200.0.22.5)"
+options: "a6c827fdaaa89768fa9bdd79246782b1"
+build_time: [1604029118, 845681000]
+inputs:
+  "/Users/nileshmalviya/Work/WorkSpace/Samples/IOS/POD/NMNetwork/NMNetworkManager/NMNetworkManager/src/NetworkManager.swift": !dirty [1604028116, 685694593]

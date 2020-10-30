@@ -1,0 +1,10 @@
+framework module NMNetworkManager {
+  umbrella header "NMNetworkManager.h"
+
+  export *
+  module * { export * }
+}
+
+module NMNetworkManager.__Swift {
+    exclude header "NMNetworkManager-Swift.h"
+}

@@ -1,0 +1,11 @@
+framework module NMNetworkManager {
+  umbrella header "NMNetworkManager.h"
+
+  export *
+  module * { export * }
+}
+
+module NMNetworkManager.Swift {
+    header "NMNetworkManager-Swift.h"
+    requires objc
+}
